@@ -3,12 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fe428e&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Meu+nome+é+Arthur;Seja+bem+vindo!:%29)](https://git.io/typing-svg)
 
 ![Arthurevg's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurevg&show_icons=true&theme=radical&rank_icon=github&hide_border=true) 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurevg&layout=compact&hide_border=true&theme=radical&bg_color=0d1116" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurevg&layout=compact&hide_border=true&theme=radical&bg_color=0d1117" />
 
 <div style="display: inline_block">
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
